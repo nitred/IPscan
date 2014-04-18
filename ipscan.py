@@ -1,3 +1,5 @@
+#To Scan all ips in network via TCP.
+
 import urllib2
 import time
 import socket
